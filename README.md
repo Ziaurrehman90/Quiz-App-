@@ -17,4 +17,5 @@ JavaScript: Leveraged for implementing the quiz logic, handling user interaction
 Overall, the Interactive Quiz App offers users an engaging and educational platform to assess their knowledge, improve their understanding of basic general knowledge subjects, and track their progress through interactive quizzes. With its user-friendly interface and interactive features, the app provides an enjoyable learning experience for users of all ages.
 
 
-![Screenshot (211)](https://github.com/Ziaurrehman90/Quiz-App-/assets/112377951/b1d100e3-b3c4-496e-afbe-f3a0441f50b0)
+
+![Screenshot (211)](https://github.com/Ziaurrehman90/Quiz-App-/assets/112377951/f97c723c-2304-438a-9e98-a9fc184c8793)
