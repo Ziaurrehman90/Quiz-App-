@@ -19,3 +19,5 @@ Overall, the Interactive Quiz App offers users an engaging and educational platf
 
 
 ![Screenshot (211)](https://github.com/Ziaurrehman90/Quiz-App-/assets/112377951/f97c723c-2304-438a-9e98-a9fc184c8793)
+
+Live Demo :  https://ziaurrehman90.github.io/Quiz-App-/
